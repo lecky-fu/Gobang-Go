@@ -1,7 +1,7 @@
 # Gobang
-A multiplayer Gobang game used WebSocket.
-Powered by Golang.
+A multiplayer Gobang game used WebSocket. Powered by Golang.
 
+# [Hava a try with your friends!](https://gobang.daoapp.io/)
 # Screenshots
 ![Home](screenshots/1.png)
 ![Waiting](screenshots/2.png)
