@@ -31,3 +31,7 @@ Pass the configuration:`docker run --name gobang --rm  -e XXX=XXX -e XXX=XXX gob
 Environments: See [Dockerfile](Dockerfile)
 # LICENSE
 GPLv3
+
+# 运行方法
+git clone ......
+再将当前项目所在文件夹添加为GOPATH环境变量，ide打开即可直接运行
